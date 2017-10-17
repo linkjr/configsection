@@ -16,6 +16,6 @@ Related:
 
 `  <configSections>`
 
-`    <section name="email" type="ConfigSection.Email, ConfigSection"/>`
+`       <section name="email" type="ConfigSection.Email, ConfigSection"/>`
 
 `  </configSections>`
