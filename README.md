@@ -6,8 +6,8 @@ Environment:Visual Studio 2013.
 Download ConfigurationSectionDesigner extension with vs2013. 
 
 Related:
-[http://csd.codeplex.com/]
---https://github.com/hybridview/ConfigurationSectionDesigner
+#http://csd.codeplex.com/
+#https://github.com/hybridview/ConfigurationSectionDesigner
 
 [img]http://www.bkjia.com/uploads/allimg/140310/0440592N6-2.png[/img]
 
