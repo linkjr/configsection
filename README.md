@@ -7,9 +7,9 @@ Download ConfigurationSectionDesigner extension with vs2013.
 
 Related:
 
-Codeplex:http://csd.codeplex.com (move to git) [url:http://csd.codeplex.com]Codeplex
+[Codeplex(move to git)](http://csd.codeplex.com)
 
-git:https://github.com/hybridview/ConfigurationSectionDesigner
+[git](https://github.com/hybridview/ConfigurationSectionDesigner)
 
 ![如图所示](http://www.bkjia.com/uploads/allimg/140310/0440592N6-2.png)
 
