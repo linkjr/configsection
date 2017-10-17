@@ -4,6 +4,7 @@ Creating a Custom Configuration Section in C#.
 Environment:Visual Studio 2013.
 
 Download ConfigurationSectionDesigner extension with vs2013. 
+
 Related:
 http://csd.codeplex.com/
 https://github.com/hybridview/ConfigurationSectionDesigner
