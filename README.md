@@ -14,9 +14,12 @@ Related:
 
 备注：新节点名称必需在configSections的section节点里面定义，并且configSections必须放在最前面，否则会报“无法识别的配置节”错误。
 
-`  <configSections>`  
-`       <section name="email" type="ConfigSection.Email, ConfigSection"/>`  
-`  </configSections>`
+```
+  <configSections>
+    <section name="email" type="ConfigSection.Email, ConfigSection"/>
+  </configSections>
 
-`<email .../>`
-`......`
+  <email xmlns="urn:ConfigSection">
+    <client host="smtp.163.com" port="25" userName="user" password="test" />
+  </email>
+````
