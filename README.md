@@ -10,11 +10,11 @@ Related:
 1. Codeplex(move to git):[http://csd.codeplex.com](http://csd.codeplex.com)
 2. git:[https://github.com/hybridview/ConfigurationSectionDesigner](https://github.com/hybridview/ConfigurationSectionDesigner)
 
-# How to config?
+## How to config?
 
 ![如图所示](http://www.bkjia.com/uploads/allimg/140310/0440592N6-2.png)
 
-# Usage
+## Usage
 ```
   <configSections>
     <section name="email" type="ConfigSection.Email, ConfigSection"/>
